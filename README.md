@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Anıl! 👋
 
-<!--
-**karakocanill/karakocanill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering student** at **Uskudar University**. I have a deep passion for exploring how systems work under the hood, which led me to dive into reverse engineering and game modding early in my journey. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 **Education:** Studying Computer Engineering at Uskudar University.
+- 🛠️ **Approach:** I love breaking things down to understand their core logic and then rebuilding them to be more efficient and powerful.
+- 🌍 **Goals:** I am working towards an international career, focusing on opportunities in **Germany, Ireland, or Canada**.
+- 🕹️ **Background:** Experienced in game modding and developing custom scripts for Discord and gaming logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Core Languages:** Python (Active), C++, Java.
+- **Web Technologies:** HTML.
+- **Emerging Interests:** Knowledgeable in **Move language** (Blockchain/Smart Contracts).
+
+### 📈 Future Plans
+I'm currently focusing on building robust projects to solve real-world problems and refining my software architecture skills.
+
+---
+*“Understanding how it works is just the beginning; making it better is the goal.”*
